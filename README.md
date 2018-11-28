@@ -16,4 +16,9 @@ Guide for setting up Windows 10 for development
 
 * https://www.python.org/downloads/ 3.+ version
 * install,choose add to PATH, optional enable long path names(256+) chars
+### Python setup
+from CMD/PS/Bash:
+* pip list
+* python -m pip install --upgrade pip
+
 
