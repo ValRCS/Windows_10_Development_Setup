@@ -28,6 +28,7 @@ from CMD/PS/Bash:
 ### For Powershell Enviroment you might need this:
 * $env:path="$env:Path;C:\Users\Admin\AppData\Local\Programs\Python\Python37-32\" the last being the directory where your Python is installed
 see: https://stackoverflow.com/questions/714877/setting-windows-powershell-path-variable
+
 For running scripts (risky if you dont trust your scripts)
 * Set-ExecutionPolicy Unrestricted from administrator Powershell
 
