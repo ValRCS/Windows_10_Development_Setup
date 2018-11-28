@@ -29,3 +29,4 @@ from CMD/PS/Bash:
 * $env:path="$env:Path;C:\Users\Admin\AppData\Local\Programs\Python\Python37-32\" the last being the directory where your Python is installed
 see: https://stackoverflow.com/questions/714877/setting-windows-powershell-path-variable
 
+
