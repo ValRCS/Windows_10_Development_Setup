@@ -11,6 +11,7 @@ Guide for setting up Windows 10 for development
 ## GIT installation
 * GIT download from https://git-scm.com/downloads for Windows direct link is: https://git-scm.com/download/win
 * keep all default choices except choose Notepad++ instead of vim as an editor(that is unless you like vim)
+* TODO git config
 
 ## Python
 
