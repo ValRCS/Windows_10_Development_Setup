@@ -21,4 +21,11 @@ from CMD/PS/Bash:
 * pip list
 * python -m pip install --upgrade pip
 
+## VS Code setup
+
+* install Python extension 
+
+### For Powershell Enviroment you might need this:
+* $env:path="$env:Path;C:\Users\Admin\AppData\Local\Programs\Python\Python37-32\" the last being the directory where your Python is installed
+
 
