@@ -23,7 +23,7 @@ from CMD/PS/Bash:
 
 ## VS Code setup
 
-* install Python extension 
+* install Python extension https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
 ### For Powershell Enviroment you might need this:
 * $env:path="$env:Path;C:\Users\Admin\AppData\Local\Programs\Python\Python37-32\" the last being the directory where your Python is installed
